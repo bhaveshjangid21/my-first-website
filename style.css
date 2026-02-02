@@ -1,0 +1,14 @@
+
+body {
+	margin : 0px;
+	padding-top : 20px;
+	background-color : #f0f0f0;
+	display : flex;
+	justify-content : center;
+}
+.dynamic-island {
+width : 200px;
+height : 40px;
+background-color : rgb(128, 128, 144);
+border-radius : 25px;
+}
